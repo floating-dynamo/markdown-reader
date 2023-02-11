@@ -1,0 +1,9 @@
+.home{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  /* justify-content: center; */
+}
+

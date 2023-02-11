@@ -1,0 +1,24 @@
+.markdown-file{
+    padding: 10px 15px;
+}
+
+.markdown-file h1, h2, h3, h4, h5, h6{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.markdown-file p,li{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.markdown-file  code{
+    font-family: 'Fira Code', sans-serif;
+}
+
+.markdown-file a{
+    text-decoration: none;
+    color: purple;
+}
+
+.markdown-file a:hover{
+    color: rgba(128, 0, 128, 0.662);
+}
